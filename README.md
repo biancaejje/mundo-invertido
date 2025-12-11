@@ -1,4 +1,4 @@
-#  Mundo Invertido — Projeto Interativo inspirado em Stranger Things
+#  ![Mundo Invertido](./assets/images/banner/logo.svg)
 
 Este projeto é uma experiência imersiva baseada no universo de **Stranger Things**, criada para fins didáticos com o objetivo de praticar **HTML**, **CSS** e **JavaScript**.  
 A página apresenta transições entre o mundo real e o **Mundo Invertido**, personagens, galeria, trailer oficial e um formulário fictício para entrar no clube de **Dungeons & Dragons** de Hawkings.
