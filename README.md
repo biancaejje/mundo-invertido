@@ -1,4 +1,5 @@
-#  ![Mundo Invertido](./assets/images/banner/logo.svg)
+<img src="./assets/images/banner/logo.svg" alt="Mundo Invertido" width="300" style="display: block; margin: 0 auto;">
+
 
 Este projeto é uma experiência imersiva baseada no universo de **Stranger Things**, criada para fins didáticos com o objetivo de praticar **HTML**, **CSS** e **JavaScript**.  
 A página apresenta transições entre o mundo real e o **Mundo Invertido**, personagens, galeria, trailer oficial e um formulário fictício para entrar no clube de **Dungeons & Dragons** de Hawkings.
