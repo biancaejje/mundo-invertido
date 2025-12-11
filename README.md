@@ -1,4 +1,7 @@
-<img src="./assets/images/banner/logo.svg" alt="Mundo Invertido" width="300" style="display: block; margin: 0 auto;">
+<p align="center">
+  <img src="./assets/images/banner/logo.svg" alt="Mundo Invertido" width="300">
+</p>
+
 
 
 Este projeto é uma experiência imersiva baseada no universo de **Stranger Things**, criada para fins didáticos com o objetivo de praticar **HTML**, **CSS** e **JavaScript**.  
